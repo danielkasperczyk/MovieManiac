@@ -1,0 +1,27 @@
+{
+  "APP_TITLE": "Movie Maniac",
+  "GENRES": "Genres",
+  "DISCOVER": "Discover",
+  "POPULAR": "Popular",
+  "TOP_RATED": "Top rated",
+  "UPCOMING": "Upcoming",
+  "RATING": "Rating",
+  "INPUTS": {
+    "FIND_MOVIE": "Find movie..."
+  },
+
+  "BUTTONS": {
+    "PREV": "Prev",
+    "NEXT": "Next",
+    "BACK": "Back",
+    "FIRST_PAGE": "First Page"
+  },
+
+  "LINKS": {
+    "IMDB": "IMDB",
+    "YOUTUBE": "YouTube"
+  },
+  "ERRORS": {
+    "PAGE_NOT_EXIST": "Page does not exist"
+  }
+}
