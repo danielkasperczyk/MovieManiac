@@ -1,5 +1,8 @@
 # movie-application
 
+## Live
+https://xenodochial-dubinsky-200a98.netlify.app/
+
 ## Project setup
 ```
 npm install
